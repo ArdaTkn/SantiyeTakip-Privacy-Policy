@@ -1,0 +1,2 @@
+- [English Privacy Policy](privacy-policy.md)
+- [Türkçe Gizlilik Politikası](privacy-policy-tr.md)
